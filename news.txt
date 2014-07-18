@@ -2,4 +2,6 @@ I'm adding a bit of code here.
 
 look at all the features I'm developing.
 
+oh, here's a problem I'm fixing.
+
 here's some more functionality.
